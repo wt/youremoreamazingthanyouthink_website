@@ -1,8 +1,21 @@
+<!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8" />
     <title>You Are More Amazing Than You Think</title>
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
   </head>
   <body>
-    <p>You are more amazing than you think!</p>
+    <div id="root"></div>
+    <script type="text/babel">
+
+      ReactDOM.render(
+        <h1>You are more amazing than you think!</h1>,
+        document.getElementById('root')
+      );
+
+    </script>
   </body>
 </html>
