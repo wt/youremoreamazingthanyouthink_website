@@ -1,1 +1,1 @@
-The website of You'reMoreAmazingThanYouThink.com
+The website of YoureMoreAmazingThanYouThink.com
