@@ -1,4 +1,4 @@
-const quotes = [
+export const quotes = [
     {id: 1, quote: "If you could only sense how important you are to the lives of those you meet - how important you can be to the people you may never even dream of. There is something of yourself that you leave at every meeting with another person.", firstName: "Fred", lastName: "Rogers"},
     
     {id: 2, quote: "Here is my secret. It is very simple: It is only with the heart that one can see rightly; what is essential is invisible to the eye.", firstName: "Antoine", lastName: "de Saint Exupéry"},
